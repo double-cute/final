@@ -1,0 +1,11 @@
+Package: SpliceNet
+Type: Package
+Title: Differential Gene Co-expression Netwok from Level 3 RNASeq data
+        at Splicing Isoform Resolution
+Version: 1.0
+Date: 2014-03-03
+Author: Hari Krishna Y
+Maintainer: Hari Krishna Y <yalamanchili.hk@gmail.com>
+Description: SpliceNet(<Input>,<Output>,<alpha>) and  SpliceNetDN(<NormalNet>, <CancerNet>)
+License: GNU GPLv3
+Packaged: 2014-03-03 07:29:28 UTC; hari
